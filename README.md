@@ -37,6 +37,6 @@
 
 
 <h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/tiot_wemapokikiy_xpe"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tiot_wemapokikiy_xpe" /></a><a  /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/tiot_wemapokikiy_xpe"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" align="center" alt="tiot_wemapokikiy_xpe" /></a><a  /></a></p><br><br>
 
 
